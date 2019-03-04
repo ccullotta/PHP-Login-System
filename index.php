@@ -1,3 +1,8 @@
+<?php 
+
+define('__CONFIG__', true);
+require_once "inc/config.php";
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,10 +38,7 @@
 
         </form></div>
 </div>
-<!-- UIkit JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit-icons.min.js"></script>
-
+<?php require_once "inc/footer.php"; ?>
 
 
 </body>
