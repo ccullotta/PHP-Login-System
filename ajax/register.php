@@ -42,5 +42,5 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' OR 1==1) {
     exit('not in ajax');
 
 }
-
+// thetssda
 ?>
