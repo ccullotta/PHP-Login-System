@@ -1,5 +1,9 @@
 <?php 
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> a1e4e25... upgrades
 define('__CONFIG__', true);
 require_once "inc/config.php";
 ?>

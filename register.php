@@ -8,7 +8,11 @@ require_once "inc/config.php";
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<<<<<<< HEAD
     <title>register page</title>
+=======
+    <title>login page</title>
+>>>>>>> a1e4e25... upgrades
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css" />
 </head>
@@ -33,9 +37,12 @@ require_once "inc/config.php";
                     <input class="uk-input" id="form-stacked-text" type="password" placeholder="Some text...">  
                 </div>
             </div>
+<<<<<<< HEAD
 
             <div class="uk-margin uk-alert uk-alert-danger js-error" style="display:none">  </div>
 
+=======
+>>>>>>> a1e4e25... upgrades
             <div class="uk-margin">
             <button class="uk-button uk-button-default" type="submit">login</button></div>
 
